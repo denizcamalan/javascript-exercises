@@ -9,7 +9,7 @@ Hint: You may need to convert letters to their unicode values. Be sure to read t
 write a function that takes a string to be encoded and a shift factor and then returns the encoded string:
 
 ```javascript
-caesar('A', 1) // simply shifts the letter by 1: returns 'B'
+caesar('A', 1) // simply shifts the letter by 1: returns 'B' 
 ```
 
 the cipher should retain capitalization:
